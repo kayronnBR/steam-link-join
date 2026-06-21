@@ -1,2 +1,2 @@
 # steam-link-join
-Automatizar o redirecionamento de links de lobby da Steam para o cliente do jogo, simplificando o acesso a sessões multiplayer com um único clique.
+O Steam join lobby tem como finalidade simplificar e agilizar o processo de conexão a partidas multiplayer na plataforma Steam. Ele elimina a necessidade de manipulação manual de comandos via terminal, oferecendo uma interface intuitiva para que usuários possam ingressar em lobbies de jogos apenas colando o link correspondente, garantindo uma experiência de entrada mais fluida, eficiente e sem precisa adicionar a pessoa como amigo na steam.
